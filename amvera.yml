@@ -1,0 +1,15 @@
+meta:
+  environment: node
+  toolchain:
+    name: npm
+    version: 22
+
+build:
+  additionalCommands:
+    - npm install
+    - npm run build
+
+run:
+  scriptName: server.js
+  containerPort: 3000
+  persistenceMount: /data
