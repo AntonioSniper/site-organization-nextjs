@@ -1,0 +1,12 @@
+{
+  "books": [
+    { "id": "1", "title": "Война и мир", "author": "Лев Толстой", "year": 1869, "available": true, "bookedBy": null },
+    { "id": "2", "title": "Анна Каренина", "author": "Лев Толстой", "year": 1877, "available": false, "bookedBy": null },
+    { "id": "3", "title": "Преступление и наказание", "author": "Фёдор Достоевский", "year": 1866, "available": true, "bookedBy": null },
+    { "id": "4", "title": "Идиот", "author": "Фёдор Достоевский", "year": 1869, "available": true, "bookedBy": null },
+    { "id": "5", "title": "Мастер и Маргарита", "author": "Михаил Булгаков", "year": 1967, "available": false, "bookedBy": null },
+    { "id": "6", "title": "Собачье сердце", "author": "Михаил Булгаков", "year": 1925, "available": true, "bookedBy": null },
+    { "id": "7", "title": "Евгений Онегин", "author": "Александр Пушкин", "year": 1833, "available": true, "bookedBy": null },
+    { "id": "8", "title": "Мёртвые души", "author": "Николай Гоголь", "year": 1842, "available": false, "bookedBy": null }
+  ]
+}

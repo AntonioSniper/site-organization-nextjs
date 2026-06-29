@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "93a56611-3e33-40c4-880f-1e09efbe53b9",
+      "username": "admin",
+      "password": "$2b$10$qfajm992XYQtymH6aFEOVOrg1l2uUXkf3wfI1Ilx6Owb8dJHouKYi",
+      "isAdmin": true
+    },
+    {
+      "id": "94b610f8-ee24-43dc-8377-47e811c8fddd",
+      "username": "dsad",
+      "password": "$2b$10$ldl3uPiHFvT6JCUhR9HDy.B9V4bNCcPs.yg8PzGWyH2WYSVh4ayHi",
+      "isAdmin": false
+    }
+  ]
+}
