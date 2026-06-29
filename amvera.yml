@@ -6,8 +6,9 @@ meta:
 
 build:
   additionalCommands:
-    - npm install
-    - npm run build
+    
+npm install
+npm run build
 
 run:
   scriptName: server.js
